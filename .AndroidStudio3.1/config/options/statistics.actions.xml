@@ -1,0 +1,44 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Paste" count="4" />
+      <entry action="$Redo" count="4" />
+      <entry action="$Undo" count="81" />
+      <entry action="Android Lint Quick Fixes" count="1" />
+      <entry action="Android.HotswapChanges" count="3" />
+      <entry action="CleanGradleProject" count="6" />
+      <entry action="CodeCompletion" count="51" />
+      <entry action="CommentByLineComment" count="1" />
+      <entry action="Create Class from Usage" count="1" />
+      <entry action="Create method from usage" count="2" />
+      <entry action="Define layout_height attribute" count="1" />
+      <entry action="Define layout_width attribute" count="1" />
+      <entry action="EditorBackSpace" count="613" />
+      <entry action="EditorChooseLookupItem" count="137" />
+      <entry action="EditorCopy" count="11" />
+      <entry action="EditorCut" count="6" />
+      <entry action="EditorDelete" count="110" />
+      <entry action="EditorDown" count="1005" />
+      <entry action="EditorDownWithSelection" count="13" />
+      <entry action="EditorEnter" count="132" />
+      <entry action="EditorEscape" count="9" />
+      <entry action="EditorLeft" count="427" />
+      <entry action="EditorLeftWithSelection" count="60" />
+      <entry action="EditorLineEnd" count="3" />
+      <entry action="EditorPaste" count="27" />
+      <entry action="EditorRight" count="791" />
+      <entry action="EditorRightWithSelection" count="76" />
+      <entry action="EditorTab" count="19" />
+      <entry action="EditorUp" count="859" />
+      <entry action="Generate" count="5" />
+      <entry action="Implement methods" count="1" />
+      <entry action="ImportProject" count="3" />
+      <entry action="NewClass" count="1" />
+      <entry action="NewProject" count="2" />
+      <entry action="RebuildGradleProject" count="2" />
+      <entry action="Run" count="23" />
+      <entry action="SaveAll" count="6" />
+      <entry action="ShowIntentionActions" count="13" />
+    </counts>
+  </component>
+</application>

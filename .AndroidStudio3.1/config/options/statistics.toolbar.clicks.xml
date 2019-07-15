@@ -1,0 +1,10 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Run@NavBarToolbar" count="20" />
+      <entry action="com.android.tools.idea.common.actions.IssueNotificationAction@NlRhsConfigToolbar" count="5" />
+      <entry action="com.android.tools.idea.fd.actions.HotswapAction@NavBarToolbar" count="2" />
+      <entry action="com.android.tools.idea.uibuilder.error.IssuePanel$MinimizeAction@unknown" count="1" />
+    </counts>
+  </component>
+</application>

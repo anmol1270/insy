@@ -1,0 +1,17 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="962" y="473" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="546" y="322" />
+    <location key="chooseDestDirectoryDialog.0.0.1920.1080@120dpi" x="726" y="303" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080@120dpi" x="720" y="173" />
+    <location key="deploy.picker.dialog.0.0.1920.1080@120dpi" x="639" y="288" />
+    <location key="#Project_Structure.0.0.1920.1080@120dpi" x="438" y="106" />
+    <location key="AndroidCreateResourceFileDialog.0.0.1920.1080@120dpi" x="539" y="288" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="689" y="220" />
+    <size key="javadoc.popup.0.0.1920.1080@120dpi" width="557" height="216" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="0" height="0" />
+  </component>
+</application>
